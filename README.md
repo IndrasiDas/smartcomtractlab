@@ -1,1 +1,1 @@
-# smartcomtractlab
+# smartcontractlab
